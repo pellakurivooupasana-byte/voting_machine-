@@ -57,7 +57,7 @@ For example:
 
 The waveform is used to verify that the vote counts change correctly for each valid voting input.
 
-## 👩‍💻 Author
+##  Author
 
 **Voo Upasana**
 
