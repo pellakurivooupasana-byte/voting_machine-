@@ -29,9 +29,9 @@ The design can be extended to support additional candidates and result-display l
 
 ##  Project Files
 
-* `voting_machine.v` – Main Verilog design
-* `voting_machine_tb.v` – Verilog testbench
-* voting_machine_simulation-Simualtion waveform
+* voting_machine.v – Main Verilog design
+* voting_machine_tb.v – Verilog testbench
+* voting_machine_simulation.png-Simualtion waveform
 
 ##  Simulation
 
